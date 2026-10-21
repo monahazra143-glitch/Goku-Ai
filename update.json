@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.2.6.1",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/monahazra143-glitch/Goku-Ai/releases/download/V1.2.2.6.1/Goku_1.2.2.6.1.apk",
-  "notes": "Naya home screen: poori Goku image, naam upar, Ultra Instinct orb beech me gol, aur neeche ka UI barabar align.",
+  "versionName": "1.2.15",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/monahazra143-glitch/Goku-Ai/releases/download/V1.2.15/Goku_1.2.15.apk",
+  "notes": "Wake word ab tagda: mic hamesha khula (Android 13+), beech me koi shabd nahi chhootta aur mic ki ting nahi bajti.\n'Hey Goku', 'हे गोकू', 'hello gokoo', 'ok go ku' jaise bahut tareeke pakde jaate hain.\nSunna band ho ya atak jaye to apne-aap theek ho jata hai.\nPrice card (₹50) ab website par sabse upar.\nBuild fix: androidx.core 1.16.0.",
   "force": false
 }
