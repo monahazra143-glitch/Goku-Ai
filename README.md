@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/monahazra143-glitch/Goku-Ai/main/assets/goku.png" width="230" alt="Goku">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/monahazra143-glitch/Goku-Ai/main/assets/brishti.png" width="230" alt="Brishti">
+<img src="https://raw.githubusercontent.com/monahazra143-glitch/Goku-Ai/main/goku.png" width="230" alt="Goku">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/monahazra143-glitch/Goku-Ai/main/brishti.png" width="230" alt="Brishti">
 
 ### Bolo aur aapka phone kaam kare.
 
