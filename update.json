@@ -1,7 +1,7 @@
-{
-  "versionName": "1.2.18",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/monahazra143-glitch/Goku-Ai/releases/download/V1.2.18/Goku_1.2.18.apk",
-  "notes": "Naya Default UI (Goku): poori Goku image, home ka upar aur neeche ka UI theek kiya.\n3-line menu ab Goku theme me; menu, home aur app icon ke alag-alag logo.\nSettings > Advanced > Theme me 'Default UI' sabse upar.\nWake word ab tagda: mic hamesha khula (Android 13+), beech me koi shabd nahi chhootta aur mic ki ting nahi bajti.\n'Hey Goku', 'हे गोकू', 'hello gokoo', 'ok go ku' jaise bahut tareeke pakde jaate hain.\nSunna band ho ya atak jaye to apne-aap theek ho jata hai.\nPrice card (₹50) ab website par sabse upar.\nBuild fix: androidx.core 1.16.0.",
+
+  "versionName": "1.0.24",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/monahazra143-glitch/Goku-Ai/releases/download/V1.0.24/Goku_1.0.24.apk",
+  "notes": "Goku ab aapka best friend: 'Boss' wali baat-cheet, mard dost ka andaaz. Romantic aur 18+ ab sirf Brishti persona me.\nNaye phone commands (Hindi, English, Bengali): scroll, click, screen padhna, sab app band, selfie, phone bajao, raasta, search, calendar, notes aur bahut kuch.\nWhatsApp, YouTube aur call pehli baar na ho to khud 2-3 baar try karte hain.\nScreen share: 'Goku screen share on karo'. Awaaz aur brightness ab percent me bhi.\nGoku Brain: yaad rakhna, nickname seekhna aur 'bhool jao'.\nPersonal me DeepSeek ke neeche Offline mode ka download section.\nNaya Goku UI, New Core aur naya loading screen. Wake word 'Hey Goku' ab tagda.",
   "force": false
 }
